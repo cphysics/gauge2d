@@ -1,2 +1,2 @@
-# gauge2d
-The Gauge Theory in 2D
+# qcd_puregauge2d
+Lattice Gauge Theory in 2 Dimension
